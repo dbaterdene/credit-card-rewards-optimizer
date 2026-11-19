@@ -1,0 +1,5 @@
+scenario,card_name,annual_spending,annual_rewards,annual_fee,ongoing_net_value,welcome_bonus_value,first_year_net_value,scenario_rank
+Average Consumer,Wells Fargo Active Cash,21960,439.2,0,439.2,100,539.2,1.0
+Frequent Traveler,Wells Fargo Active Cash,30000,600.0,0,600.0,100,700.0,1.0
+Gas and Commuting Consumer,Wells Fargo Active Cash,21600,432.0,0,432.0,100,532.0,1.0
+Grocery and Dining Consumer,Capital One Savor,27000,654.0,0,654.0,200,854.0,1.0

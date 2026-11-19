@@ -1,0 +1,19 @@
+card_name,category,annual_spending,reward_rate,annual_rewards
+Wells Fargo Active Cash,Groceries,7200,0.02,144.0
+Wells Fargo Active Cash,Dining,3600,0.02,72.0
+Wells Fargo Active Cash,Gas,2160,0.02,43.2
+Wells Fargo Active Cash,Travel,1800,0.02,36.0
+Wells Fargo Active Cash,Bills,3000,0.02,60.0
+Wells Fargo Active Cash,Other,4200,0.02,84.0
+Capital One Savor,Groceries,7200,0.03,216.0
+Capital One Savor,Dining,3600,0.03,108.0
+Capital One Savor,Gas,2160,0.01,21.6
+Capital One Savor,Travel,1800,0.01,18.0
+Capital One Savor,Bills,3000,0.01,30.0
+Capital One Savor,Other,4200,0.01,42.0
+Chase Freedom Unlimited,Groceries,7200,0.015,108.0
+Chase Freedom Unlimited,Dining,3600,0.03,108.0
+Chase Freedom Unlimited,Gas,2160,0.015,32.4
+Chase Freedom Unlimited,Travel,1800,0.015,27.0
+Chase Freedom Unlimited,Bills,3000,0.015,45.0
+Chase Freedom Unlimited,Other,4200,0.015,63.0

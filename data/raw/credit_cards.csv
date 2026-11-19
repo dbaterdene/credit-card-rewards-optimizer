@@ -1,0 +1,4 @@
+card_name,annual_fee,reward_type,groceries_rate,dining_rate,gas_rate,travel_rate,bills_rate,other_rate,welcome_bonus_value,welcome_bonus_min_spend,welcome_bonus_months,source_url,verified_date,data_status
+Wells Fargo Active Cash,0,cash_back,0.02,0.02,0.02,0.02,0.02,0.02,100,500,3,https://www.wellsfargo.com/credit-cards/active-cash/,2026-11-18,VERIFIED
+Capital One Savor,0,cash_back,0.03,0.03,0.01,0.01,0.01,0.01,200,500,3,https://www.capitalone.com/credit-cards/cash-back/savor/,2026-11-18,VERIFIED
+Chase Freedom Unlimited,0,cash_back,0.015,0.03,0.015,0.015,0.015,0.015,200,500,3,https://creditcards.chase.com/cash-back-credit-cards/freedom/unlimited,2026-11-18,VERIFIED

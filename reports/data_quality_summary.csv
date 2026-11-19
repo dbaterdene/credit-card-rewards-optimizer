@@ -1,0 +1,20 @@
+metric,value
+Spending rows,6
+Spending columns,2
+Card rows,3
+Card columns,13
+Duplicate spending rows,0
+Duplicate card rows,0
+Missing spending categories,0
+Missing spending amounts,0
+Negative spending amounts,0
+Missing card names,0
+Missing annual fees,0
+Negative annual fees,0
+Missing reward rates,0
+Invalid reward rates,0
+Negative welcome bonuses,0
+Cards without source URLs,0
+Cards not marked VERIFIED,0
+Total monthly spending USD,1830
+Estimated annual spending USD,21960
